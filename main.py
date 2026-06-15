@@ -1,3 +1,4 @@
+# main.py после подключения subjects.py
 from profile import print_profile
 from subjects import print_subjects
 
